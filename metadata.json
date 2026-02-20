@@ -1,0 +1,7 @@
+{
+  "name": "IIB Career Institute – Student Communication Portal",
+  "description": "A secure, scalable bulk messaging platform for educational institutes, featuring AI-powered message enhancement, student group management, and automated campaign tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
